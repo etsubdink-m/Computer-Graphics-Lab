@@ -14,7 +14,7 @@ This guide provides a comprehensive, step-by-step walkthrough for setting up a m
 6. [Generate & Prepare GLAD Files](#6-generate--prepare-glad-files)
 7. [Create CMakeLists.txt](#7-create-cmakeliststxt)
 8. [Create Build Batch File](#8-create-build-batch-file)
-9. [Write main.cpp](#9-write-maincpp)
+9. [Create main.cpp](#9-create-maincpp)
 10. [Build & Run the Project](#10-build--run-the-project)
 11. [Final Directory Structure](#11-final-directory-structure)
 
@@ -153,12 +153,12 @@ OpenGLProject
 ## 7. Create CMakeLists.txt
 
 - In the root of your project (`OpenGLProject/`), create a file named **CMakeLists.txt**
-- Open the [CMakeLists.txt file on GitHub](https://github.com/yourusername/yourrepo/blob/main/CMakeLists.txt) and copy its contents into your local `CMakeLists.txt`.
+- Open this [CMakeLists.txt file on GitHub](https://github.com/yourusername/yourrepo/blob/main/CMakeLists.txt) and copy its contents into your local `CMakeLists.txt`.
 - Adjust any paths if necessary to match your project’s folder structure.
 
 ## 8. Create main.cpp
 
-please use the [main.cpp](https://github.com/etsubdink-m/Computer-Graphics-Lab/blob/main/main.cpp). Follow these steps:
+please use this [main.cpp](https://github.com/etsubdink-m/Computer-Graphics-Lab/blob/main/main.cpp). Follow these steps:
 
 - In the `src/` folder of your project (`OpenGLProject/src/`), create a file named `main.cpp`.
 - Open the [main.cpp file on GitHub](https://github.com/etsubdink-m/Computer-Graphics-Lab/blob/main/main.cpp) and copy its contents into your local `main.cpp`.
