@@ -17,7 +17,6 @@ target_include_directories(main PRIVATE
 
 # Link libraries: 
 #  1) The static GLFW library in /lib 
-#  2) The Windows OpenGL library (opengl32).
 target_link_libraries(main PRIVATE
 "${CMAKE_CURRENT_SOURCE_DIR}/lib/libglfw3.a"
 )
