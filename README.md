@@ -196,11 +196,12 @@ please use the [build_cmake.bat](https://github.com/etsubdink-m/Computer-Graphic
      It runs a CMake command (using the "MinGW Makefiles" generator) to process your `CMakeLists.txt` and generate the appropriate Makefiles.
    - **Builds the Project**:  
      The script then calls CMake to build the project. This step compiles your source files (`main.cpp` and `glad.c`) and links them with the GLFW library.
-   - **Runs the Executable**:  
-     If the build is successful, the batch file automatically runs `Main.exe`.
-
+     
+- **Run the Executable**:  
+     If the build is successful, make sure you are on your project root directory and run the executable using `.\build\main.exe`
+  
 - **Expected Outcome**  
-   - After the build process completes, you should see a new window titled **"Learn OpenGL"**.
+   - You should see a new window titled **"Learn OpenGL"**.
    - ![photo_2025-04-03_01-24-27](https://github.com/user-attachments/assets/cab35b85-e9da-45c5-86f5-e4d0787671b6)
      
 ## 11. Final Directory Structure
