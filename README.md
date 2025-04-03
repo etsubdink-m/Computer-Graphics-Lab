@@ -159,7 +159,7 @@ OpenGLProject
 ## 7. Create CMakeLists.txt
 
 - In the root of your project (`OpenGLProject/`), create a file named **CMakeLists.txt**
-- Open this [CMakeLists.txt file on GitHub](https://github.com/yourusername/yourrepo/blob/main/CMakeLists.txt) and copy its contents into your local `CMakeLists.txt`.
+- Open this [CMakeLists.txt file on GitHub](https://github.com/etsubdink-m/Computer-Graphics-Lab/blob/main/CMakeLists.txt) and copy its contents into your local `CMakeLists.txt`.
 - Adjust any paths if necessary to match your project’s folder structure.
 
 ## 8. Create main.cpp
