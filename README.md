@@ -118,6 +118,11 @@ OpenGLProject
    - Visit [GLAD Generator](https://glad.dav1d.de/).
    - **Language**: Select `C/C++`.
    - **API**: Choose `gl` and select your desired OpenGL version (e.g., 3.3, 4.5, or 4.6).
+        - To check your current OpenGL version on your system, you can install **OpenGL Extensions Viewer**:
+        - Download from [CNET](https://download.cnet.com/download/opengl-extensions-viewer/3000-18487_4-34442.html).
+        - Install and run the tool; it will list the highest supported OpenGL version for your system.
+  - Install and run the tool; it will list the highest supported OpenGL version for your system.
+  - Use that version number when generating your GLAD files.
    - **Profile**: Choose `Core`.
    - **Extensions**: Add all extensions you might need (or leave as default).
    - **Loader**: Ensure “Generate loader” is checked.
