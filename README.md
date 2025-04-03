@@ -122,8 +122,8 @@ OpenGLProject
         - Download from [CNET](https://download.cnet.com/download/opengl-extensions-viewer/3000-18487_4-34442.html).
         - Install and run the tool; it will list the highest supported OpenGL version for your system.
         - ![photo_2025-04-03_15-44-26](https://github.com/user-attachments/assets/0a263b71-de7f-40c8-ba5a-904365cbf032)
-  - Install and run the tool; it will list the highest supported OpenGL version for your system.
-  - Use that version number when generating your GLAD files.
+        - Install and run the tool; it will list the highest supported OpenGL version for your system.
+        - Use that version number when generating your GLAD files.
    - **Profile**: Choose `Core`.
    - **Extensions**: Add all extensions you might need (or leave as default).
    - **Loader**: Ensure “Generate loader” is checked.
